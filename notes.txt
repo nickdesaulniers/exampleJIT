@@ -1,2 +1,2 @@
 brew install binutils
-gobjdump -j .text -d mul.o
+gobjdump -j .text -d mul.o -M intel

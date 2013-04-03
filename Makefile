@@ -5,4 +5,4 @@ mul:
 		clang -c mul.c -o mul.o
 
 clean:
-		rm mul.o a.out jit
+		rm mul.o jit
