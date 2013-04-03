@@ -1,0 +1,2 @@
+brew install binutils
+gobjdump -j .text -d mul.o
